@@ -1,0 +1,26 @@
+[
+  {
+  "content": "自動プレゼンテーションデモ",
+  "mark": "",
+  "next": true,
+  "face": "normal"
+  },
+  {
+  "content": "これは、自動プレゼンテーションのデモです。",
+  "mark": "",
+  "next": true,
+  "face": "normal"
+  },
+  {
+  "content": "このように、表情差分を用意しておけば切り替えることもできます",
+  "mark": "",
+  "next": true,
+  "face": "smile"
+  },
+  {
+  "content": "大事なところには線を引くこともできるんです",
+  "mark": "とても大事",
+  "next": false,
+  "face": "normal"
+  }
+]
